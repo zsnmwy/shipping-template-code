@@ -1,0 +1,17 @@
+{
+  "packageId": "wpkgsWejrWNSE",
+  "spaceId": "spcQMsGUFHSav",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "发货",
+    "en-US": "发货"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "发货 的描述",
+    "en-US": "发货 description"
+  },
+  "sandbox": true
+}
