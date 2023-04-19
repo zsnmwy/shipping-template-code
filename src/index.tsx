@@ -19,7 +19,7 @@ export const HelloWorld: React.FC = () => {
         />
       </div>
 
-      <Setting />
+      {/* <Setting /> */}
     </div>
   );
 };
