@@ -18,7 +18,7 @@
   "license": "MIT",
   "scripts": {
     "start": "widget-cli start -p 9002",
-    "release": "widget-cli release  --uploadHost http://192.168.31.221"
+    "release": "widget-cli release  --uploadHost http://192.168.31.221:9500"
   },
   "peerDependencies": {
     "react": "18.2.0",
